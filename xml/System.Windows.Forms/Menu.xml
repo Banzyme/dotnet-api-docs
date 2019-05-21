@@ -87,12 +87,12 @@
       </Docs>
     </Member>
     <Member MemberName="CloneMenu">
-      <MemberSignature Language="C#" Value="protected internal void CloneMenu (System.Windows.Forms.Menu menuSrc);" />
-      <MemberSignature Language="ILAsm" Value=".method familyorassemblyhidebysig instance void CloneMenu(class System.Windows.Forms.Menu menuSrc) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Windows.Forms.Menu.CloneMenu(System.Windows.Forms.Menu)" />
-      <MemberSignature Language="VB.NET" Value="Protected Friend Sub CloneMenu (menuSrc As Menu)" />
-      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; void CloneMenu(System::Windows::Forms::Menu ^ menuSrc);" />
-      <MemberSignature Language="F#" Value="member this.CloneMenu : System.Windows.Forms.Menu -&gt; unit" Usage="menu.CloneMenu menuSrc" />
+      <MemberSignature Language="DocId" Value="M:System.Windows.Forms.Menu.CloneMenu(System.Windows.Forms.Menu)" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="F#" Value="member this.CloneMenu : System.Windows.Forms.Menu -&gt; unit" Usage="menu.CloneMenu menuSrc" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C#" Value="protected internal void CloneMenu (System.Windows.Forms.Menu menuSrc);" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="ILAsm" Value=".method familyorassemblyhidebysig instance void CloneMenu(class System.Windows.Forms.Menu menuSrc) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Protected Friend Sub CloneMenu (menuSrc As Menu)" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; void CloneMenu(System::Windows::Forms::Menu ^ menuSrc);" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>

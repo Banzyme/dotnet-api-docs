@@ -610,12 +610,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       </Docs>
     </Member>
     <Member MemberName="UserEntryPoint">
-      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.SymbolToken UserEntryPoint { get; }" />
+      <MemberSignature Language="C#" Value="public override System.Diagnostics.SymbolStore.SymbolToken UserEntryPoint { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Diagnostics.SymbolStore.SymbolToken UserEntryPoint" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymReader.UserEntryPoint" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property UserEntryPoint As SymbolToken" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property UserEntryPoint As SymbolToken" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Diagnostics::SymbolStore::SymbolToken UserEntryPoint { System::Diagnostics::SymbolStore::SymbolToken get(); };" />
       <MemberSignature Language="F#" Value="member this.UserEntryPoint : System.Diagnostics.SymbolStore.SymbolToken" Usage="System.Diagnostics.SymbolStore.SymReader.UserEntryPoint" />
+      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.SymbolToken UserEntryPoint { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property UserEntryPoint As SymbolToken" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>

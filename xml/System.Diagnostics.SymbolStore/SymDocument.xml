@@ -151,12 +151,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocument.Finalize> method to rel
       </Docs>
     </Member>
     <Member MemberName="CheckSumAlgorithmId">
-      <MemberSignature Language="C#" Value="public virtual Guid CheckSumAlgorithmId { get; }" />
+      <MemberSignature Language="C#" Value="public override Guid CheckSumAlgorithmId { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Guid CheckSumAlgorithmId" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymDocument.CheckSumAlgorithmId" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property CheckSumAlgorithmId As Guid" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property CheckSumAlgorithmId As Guid" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property Guid CheckSumAlgorithmId { Guid get(); };" />
       <MemberSignature Language="F#" Value="member this.CheckSumAlgorithmId : Guid" Usage="System.Diagnostics.SymbolStore.SymDocument.CheckSumAlgorithmId" />
+      <MemberSignature Language="C#" Value="public virtual Guid CheckSumAlgorithmId { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property CheckSumAlgorithmId As Guid" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
@@ -248,12 +250,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocument.Finalize> method to rel
       </Docs>
     </Member>
     <Member MemberName="DocumentType">
-      <MemberSignature Language="C#" Value="public virtual Guid DocumentType { get; }" />
+      <MemberSignature Language="C#" Value="public override Guid DocumentType { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Guid DocumentType" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymDocument.DocumentType" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property DocumentType As Guid" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property DocumentType As Guid" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property Guid DocumentType { Guid get(); };" />
       <MemberSignature Language="F#" Value="member this.DocumentType : Guid" Usage="System.Diagnostics.SymbolStore.SymDocument.DocumentType" />
+      <MemberSignature Language="C#" Value="public virtual Guid DocumentType { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property DocumentType As Guid" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
@@ -427,12 +431,14 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       </Docs>
     </Member>
     <Member MemberName="HasEmbeddedSource">
-      <MemberSignature Language="C#" Value="public virtual bool HasEmbeddedSource { get; }" />
+      <MemberSignature Language="C#" Value="public override bool HasEmbeddedSource { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance bool HasEmbeddedSource" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymDocument.HasEmbeddedSource" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property HasEmbeddedSource As Boolean" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property HasEmbeddedSource As Boolean" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool HasEmbeddedSource { bool get(); };" />
       <MemberSignature Language="F#" Value="member this.HasEmbeddedSource : bool" Usage="System.Diagnostics.SymbolStore.SymDocument.HasEmbeddedSource" />
+      <MemberSignature Language="C#" Value="public virtual bool HasEmbeddedSource { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property HasEmbeddedSource As Boolean" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
@@ -454,12 +460,14 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       </Docs>
     </Member>
     <Member MemberName="Language">
-      <MemberSignature Language="C#" Value="public virtual Guid Language { get; }" />
+      <MemberSignature Language="C#" Value="public override Guid Language { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Guid Language" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymDocument.Language" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Language As Guid" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property Language As Guid" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property Guid Language { Guid get(); };" />
       <MemberSignature Language="F#" Value="member this.Language : Guid" Usage="System.Diagnostics.SymbolStore.SymDocument.Language" />
+      <MemberSignature Language="C#" Value="public virtual Guid Language { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Language As Guid" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
@@ -487,12 +495,14 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       </Docs>
     </Member>
     <Member MemberName="LanguageVendor">
-      <MemberSignature Language="C#" Value="public virtual Guid LanguageVendor { get; }" />
+      <MemberSignature Language="C#" Value="public override Guid LanguageVendor { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Guid LanguageVendor" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymDocument.LanguageVendor" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property LanguageVendor As Guid" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property LanguageVendor As Guid" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property Guid LanguageVendor { Guid get(); };" />
       <MemberSignature Language="F#" Value="member this.LanguageVendor : Guid" Usage="System.Diagnostics.SymbolStore.SymDocument.LanguageVendor" />
+      <MemberSignature Language="C#" Value="public virtual Guid LanguageVendor { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property LanguageVendor As Guid" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
@@ -520,12 +530,14 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       </Docs>
     </Member>
     <Member MemberName="SourceLength">
-      <MemberSignature Language="C#" Value="public virtual int SourceLength { get; }" />
+      <MemberSignature Language="C#" Value="public override int SourceLength { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance int32 SourceLength" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymDocument.SourceLength" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property SourceLength As Integer" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property SourceLength As Integer" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property int SourceLength { int get(); };" />
       <MemberSignature Language="F#" Value="member this.SourceLength : int" Usage="System.Diagnostics.SymbolStore.SymDocument.SourceLength" />
+      <MemberSignature Language="C#" Value="public virtual int SourceLength { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property SourceLength As Integer" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
@@ -546,12 +558,14 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       </Docs>
     </Member>
     <Member MemberName="URL">
-      <MemberSignature Language="C#" Value="public virtual string URL { get; }" />
+      <MemberSignature Language="C#" Value="public override string URL { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance string URL" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymDocument.URL" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property URL As String" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property URL As String" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ URL { System::String ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.URL : string" Usage="System.Diagnostics.SymbolStore.SymDocument.URL" />
+      <MemberSignature Language="C#" Value="public virtual string URL { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property URL As String" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>

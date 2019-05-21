@@ -691,9 +691,10 @@
       <MemberSignature Language="C#" Value="public event EventHandler PathChange;" />
       <MemberSignature Language="ILAsm" Value=".event class System.EventHandler PathChange" />
       <MemberSignature Language="DocId" Value="E:Microsoft.VisualBasic.Compatibility.VB6.FileListBox.PathChange" />
-      <MemberSignature Language="VB.NET" Value="Public Event PathChange As EventHandler " />
+      <MemberSignature Language="VB.NET" Value="Public Custom Event PathChange As EventHandler " FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; event EventHandler ^ PathChange;" />
       <MemberSignature Language="F#" Value="member this.PathChange : EventHandler " Usage="member this.PathChange : System.EventHandler " />
+      <MemberSignature Language="VB.NET" Value="Public Event PathChange As EventHandler " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility</AssemblyName>
@@ -773,9 +774,10 @@
       <MemberSignature Language="C#" Value="public event EventHandler PatternChange;" />
       <MemberSignature Language="ILAsm" Value=".event class System.EventHandler PatternChange" />
       <MemberSignature Language="DocId" Value="E:Microsoft.VisualBasic.Compatibility.VB6.FileListBox.PatternChange" />
-      <MemberSignature Language="VB.NET" Value="Public Event PatternChange As EventHandler " />
+      <MemberSignature Language="VB.NET" Value="Public Custom Event PatternChange As EventHandler " FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; event EventHandler ^ PatternChange;" />
       <MemberSignature Language="F#" Value="member this.PatternChange : EventHandler " Usage="member this.PatternChange : System.EventHandler " />
+      <MemberSignature Language="VB.NET" Value="Public Event PatternChange As EventHandler " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility</AssemblyName>

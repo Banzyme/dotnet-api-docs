@@ -143,12 +143,12 @@ End Using
       </Docs>
     </MemberGroup>
     <Member MemberName="Attach">
-      <MemberSignature Language="C#" Value="public void Attach (TEntity entity);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance void Attach(!TEntity entity) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Data.Linq.Table`1.Attach(`0)" />
-      <MemberSignature Language="VB.NET" Value="Public Sub Attach (entity As TEntity)" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; void Attach(TEntity entity);" />
-      <MemberSignature Language="F#" Value="member this.Attach : 'Entity -&gt; unit" Usage="table.Attach entity" />
+      <MemberSignature Language="C#" Value="public void Attach (TEntity entity);" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="DocId" Value="M:System.Data.Linq.Table`1.Attach(`0)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Sub Attach (entity As TEntity)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance void Attach(!TEntity entity) cil managed" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; void Attach(TEntity entity);" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="F#" Value="member this.Attach : 'Entity -&gt; unit" Usage="table.Attach entity" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -473,12 +473,12 @@ db.SubmitChanges()
       </Docs>
     </Member>
     <Member MemberName="DeleteOnSubmit">
-      <MemberSignature Language="C#" Value="public void DeleteOnSubmit (TEntity entity);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance void DeleteOnSubmit(!TEntity entity) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Data.Linq.Table`1.DeleteOnSubmit(`0)" />
-      <MemberSignature Language="VB.NET" Value="Public Sub DeleteOnSubmit (entity As TEntity)" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; void DeleteOnSubmit(TEntity entity);" />
-      <MemberSignature Language="F#" Value="member this.DeleteOnSubmit : 'Entity -&gt; unit" Usage="table.DeleteOnSubmit entity" />
+      <MemberSignature Language="C#" Value="public void DeleteOnSubmit (TEntity entity);" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="DocId" Value="M:System.Data.Linq.Table`1.DeleteOnSubmit(`0)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Sub DeleteOnSubmit (entity As TEntity)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance void DeleteOnSubmit(!TEntity entity) cil managed" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; void DeleteOnSubmit(TEntity entity);" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="F#" Value="member this.DeleteOnSubmit : 'Entity -&gt; unit" Usage="table.DeleteOnSubmit entity" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -669,12 +669,12 @@ db.SubmitChanges()
       </Docs>
     </Member>
     <Member MemberName="InsertOnSubmit">
-      <MemberSignature Language="C#" Value="public void InsertOnSubmit (TEntity entity);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance void InsertOnSubmit(!TEntity entity) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Data.Linq.Table`1.InsertOnSubmit(`0)" />
-      <MemberSignature Language="VB.NET" Value="Public Sub InsertOnSubmit (entity As TEntity)" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; void InsertOnSubmit(TEntity entity);" />
-      <MemberSignature Language="F#" Value="member this.InsertOnSubmit : 'Entity -&gt; unit" Usage="table.InsertOnSubmit entity" />
+      <MemberSignature Language="C#" Value="public void InsertOnSubmit (TEntity entity);" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="DocId" Value="M:System.Data.Linq.Table`1.InsertOnSubmit(`0)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Sub InsertOnSubmit (entity As TEntity)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance void InsertOnSubmit(!TEntity entity) cil managed" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; void InsertOnSubmit(TEntity entity);" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="F#" Value="member this.InsertOnSubmit : 'Entity -&gt; unit" Usage="table.InsertOnSubmit entity" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>

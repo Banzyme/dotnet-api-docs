@@ -11884,12 +11884,12 @@
       </Docs>
     </Member>
     <Member MemberName="GetHdc">
-      <MemberSignature Language="C#" Value="public IntPtr GetHdc ();" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance native int GetHdc() cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Drawing.Graphics.GetHdc" />
-      <MemberSignature Language="VB.NET" Value="Public Function GetHdc () As IntPtr" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual IntPtr GetHdc();" />
-      <MemberSignature Language="F#" Value="abstract member GetHdc : unit -&gt; nativeint&#xA;override this.GetHdc : unit -&gt; nativeint" Usage="graphics.GetHdc " />
+      <MemberSignature Language="C#" Value="public IntPtr GetHdc ();" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="DocId" Value="M:System.Drawing.Graphics.GetHdc" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Function GetHdc () As IntPtr" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance native int GetHdc() cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual IntPtr GetHdc();" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="F#" Value="abstract member GetHdc : unit -&gt; nativeint&#xA;override this.GetHdc : unit -&gt; nativeint" Usage="graphics.GetHdc " FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>

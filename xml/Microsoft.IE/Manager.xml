@@ -313,13 +313,15 @@ This API is not CLS-compliant. </summary>
         <ReturnType>Microsoft.IE.ISecureFactory</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="flags" Type="System.Int32" />
-        <Parameter Name="zone" Type="System.Int32" />
-        <Parameter Name="site" Type="System.String" />
-        <Parameter Name="uniqueIdString" Type="System.String" />
-        <Parameter Name="fileHashString" Type="System.String" />
-        <Parameter Name="assemblyName" Type="System.String" />
-        <Parameter Name="typeName" Type="System.String" />
+        <Parameter Name="flags" Type="System.Int32" Index="0" />
+        <Parameter Name="zone" Type="System.Int32" Index="1" />
+        <Parameter Name="site" Type="System.String" Index="2" />
+        <Parameter Name="uniqueIdString" Type="System.String" Index="3" />
+        <Parameter Name="fileHashString" Type="System.String" Index="4" />
+        <Parameter Name="assemblyName" Type="System.String" Index="5" FrameworkAlternate="netframework-1.1" />
+        <Parameter Name="typeName" Type="System.String" Index="5" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5" />
+        <Parameter Name="typeName" Type="System.String" Index="6" FrameworkAlternate="netframework-1.1" />
+        <Parameter Name="assemblyName" Type="System.String" Index="6" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5" />
       </Parameters>
       <Docs>
         <param name="flags">One of the following CORIESECURITY values:
@@ -341,8 +343,8 @@ This API is not CLS-compliant. </summary>
         <param name="site">The site address.</param>
         <param name="uniqueIdString">A unique ID for the site.</param>
         <param name="fileHashString">The hexadecimal encoded hash value of the assembly that is being loaded.</param>
-        <param name="assemblyName">The name of the assembly.</param>
         <param name="typeName">The name of the type.</param>
+        <param name="assemblyName">The name of the assembly.</param>
         <summary>Creates a class factory that provides security information about the assembly.
 
 This API is not CLS-compliant. </summary>

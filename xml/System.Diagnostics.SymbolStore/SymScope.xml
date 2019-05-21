@@ -210,12 +210,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       </Docs>
     </Member>
     <Member MemberName="EndOffset">
-      <MemberSignature Language="C#" Value="public virtual int EndOffset { get; }" />
+      <MemberSignature Language="C#" Value="public override int EndOffset { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance int32 EndOffset" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymScope.EndOffset" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property EndOffset As Integer" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property EndOffset As Integer" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property int EndOffset { int get(); };" />
       <MemberSignature Language="F#" Value="member this.EndOffset : int" Usage="System.Diagnostics.SymbolStore.SymScope.EndOffset" />
+      <MemberSignature Language="C#" Value="public virtual int EndOffset { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property EndOffset As Integer" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
@@ -356,12 +358,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       </Docs>
     </Member>
     <Member MemberName="Method">
-      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.ISymbolMethod Method { get; }" />
+      <MemberSignature Language="C#" Value="public override System.Diagnostics.SymbolStore.ISymbolMethod Method { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance class System.Diagnostics.SymbolStore.ISymbolMethod Method" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymScope.Method" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Method As ISymbolMethod" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property Method As ISymbolMethod" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Diagnostics::SymbolStore::ISymbolMethod ^ Method { System::Diagnostics::SymbolStore::ISymbolMethod ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.Method : System.Diagnostics.SymbolStore.ISymbolMethod" Usage="System.Diagnostics.SymbolStore.SymScope.Method" />
+      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.ISymbolMethod Method { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Method As ISymbolMethod" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
@@ -382,12 +386,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       </Docs>
     </Member>
     <Member MemberName="Parent">
-      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.ISymbolScope Parent { get; }" />
+      <MemberSignature Language="C#" Value="public override System.Diagnostics.SymbolStore.ISymbolScope Parent { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance class System.Diagnostics.SymbolStore.ISymbolScope Parent" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymScope.Parent" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Parent As ISymbolScope" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property Parent As ISymbolScope" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Diagnostics::SymbolStore::ISymbolScope ^ Parent { System::Diagnostics::SymbolStore::ISymbolScope ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.Parent : System.Diagnostics.SymbolStore.ISymbolScope" Usage="System.Diagnostics.SymbolStore.SymScope.Parent" />
+      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.ISymbolScope Parent { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Parent As ISymbolScope" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
@@ -408,12 +414,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       </Docs>
     </Member>
     <Member MemberName="StartOffset">
-      <MemberSignature Language="C#" Value="public virtual int StartOffset { get; }" />
+      <MemberSignature Language="C#" Value="public override int StartOffset { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance int32 StartOffset" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymScope.StartOffset" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property StartOffset As Integer" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property StartOffset As Integer" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property int StartOffset { int get(); };" />
       <MemberSignature Language="F#" Value="member this.StartOffset : int" Usage="System.Diagnostics.SymbolStore.SymScope.StartOffset" />
+      <MemberSignature Language="C#" Value="public virtual int StartOffset { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property StartOffset As Integer" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>

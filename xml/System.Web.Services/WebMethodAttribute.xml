@@ -530,12 +530,12 @@
       </Docs>
     </Member>
     <Member MemberName="TransactionOption">
-      <MemberSignature Language="C#" Value="public System.EnterpriseServices.TransactionOption TransactionOption { get; set; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.EnterpriseServices.TransactionOption TransactionOption" />
-      <MemberSignature Language="DocId" Value="P:System.Web.Services.WebMethodAttribute.TransactionOption" />
-      <MemberSignature Language="VB.NET" Value="Public Property TransactionOption As TransactionOption" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::EnterpriseServices::TransactionOption TransactionOption { System::EnterpriseServices::TransactionOption get(); void set(System::EnterpriseServices::TransactionOption value); };" />
-      <MemberSignature Language="F#" Value="member this.TransactionOption : System.EnterpriseServices.TransactionOption with get, set" Usage="System.Web.Services.WebMethodAttribute.TransactionOption" />
+      <MemberSignature Language="DocId" Value="P:System.Web.Services.WebMethodAttribute.TransactionOption" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Property TransactionOption As TransactionOption" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C#" Value="public System.EnterpriseServices.TransactionOption TransactionOption { get; set; }" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.EnterpriseServices.TransactionOption TransactionOption" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::EnterpriseServices::TransactionOption TransactionOption { System::EnterpriseServices::TransactionOption get(); void set(System::EnterpriseServices::TransactionOption value); };" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="F#" Value="member this.TransactionOption : System.EnterpriseServices.TransactionOption with get, set" Usage="System.Web.Services.WebMethodAttribute.TransactionOption" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Web.Services</AssemblyName>

@@ -107,12 +107,12 @@
       </Docs>
     </Member>
     <Member MemberName="Equals">
-      <MemberSignature Language="C#" Value="public bool Equals (System.Reflection.Emit.MethodToken obj);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance bool Equals(valuetype System.Reflection.Emit.MethodToken obj) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Reflection.Emit.MethodToken.Equals(System.Reflection.Emit.MethodToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Function Equals (obj As MethodToken) As Boolean" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; bool Equals(System::Reflection::Emit::MethodToken obj);" />
-      <MemberSignature Language="F#" Value="override this.Equals : System.Reflection.Emit.MethodToken -&gt; bool" Usage="methodToken.Equals obj" />
+      <MemberSignature Language="C#" Value="public bool Equals (System.Reflection.Emit.MethodToken obj);" FrameworkAlternate="xamarinandroid-7.1;xamarinmac-3.0" />
+      <MemberSignature Language="DocId" Value="M:System.Reflection.Emit.MethodToken.Equals(System.Reflection.Emit.MethodToken)" FrameworkAlternate="xamarinandroid-7.1;xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Function Equals (obj As MethodToken) As Boolean" FrameworkAlternate="xamarinandroid-7.1;xamarinmac-3.0" />
+      <MemberSignature Language="F#" Value="override this.Equals : System.Reflection.Emit.MethodToken -&gt; bool" Usage="methodToken.Equals obj" FrameworkAlternate="xamarinandroid-7.1;xamarinmac-3.0" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance bool Equals(valuetype System.Reflection.Emit.MethodToken obj) cil managed" FrameworkAlternate="xamarinandroid-7.1;xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; bool Equals(System::Reflection::Emit::MethodToken obj);" FrameworkAlternate="xamarinandroid-7.1;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>

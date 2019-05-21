@@ -592,12 +592,12 @@
       </Docs>
     </Member>
     <Member MemberName="Operations">
-      <MemberSignature Language="C#" Value="public System.Collections.Generic.SynchronizedKeyedCollection&lt;string,System.ServiceModel.Dispatcher.ClientOperation&gt; Operations { get; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.Generic.SynchronizedKeyedCollection`2&lt;string, class System.ServiceModel.Dispatcher.ClientOperation&gt; Operations" />
-      <MemberSignature Language="DocId" Value="P:System.ServiceModel.Dispatcher.ClientRuntime.Operations" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Operations As SynchronizedKeyedCollection(Of String, ClientOperation)" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Collections::Generic::SynchronizedKeyedCollection&lt;System::String ^, System::ServiceModel::Dispatcher::ClientOperation ^&gt; ^ Operations { System::Collections::Generic::SynchronizedKeyedCollection&lt;System::String ^, System::ServiceModel::Dispatcher::ClientOperation ^&gt; ^ get(); };" />
-      <MemberSignature Language="F#" Value="member this.Operations : System.Collections.Generic.SynchronizedKeyedCollection&lt;string, System.ServiceModel.Dispatcher.ClientOperation&gt;" Usage="System.ServiceModel.Dispatcher.ClientRuntime.Operations" />
+      <MemberSignature Language="DocId" Value="P:System.ServiceModel.Dispatcher.ClientRuntime.Operations" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C#" Value="public System.Collections.Generic.SynchronizedKeyedCollection&lt;string,System.ServiceModel.Dispatcher.ClientOperation&gt; Operations { get; }" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.Generic.SynchronizedKeyedCollection`2&lt;string, class System.ServiceModel.Dispatcher.ClientOperation&gt; Operations" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Operations As SynchronizedKeyedCollection(Of String, ClientOperation)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Collections::Generic::SynchronizedKeyedCollection&lt;System::String ^, System::ServiceModel::Dispatcher::ClientOperation ^&gt; ^ Operations { System::Collections::Generic::SynchronizedKeyedCollection&lt;System::String ^, System::ServiceModel::Dispatcher::ClientOperation ^&gt; ^ get(); };" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="F#" Value="member this.Operations : System.Collections.Generic.SynchronizedKeyedCollection&lt;string, System.ServiceModel.Dispatcher.ClientOperation&gt;" Usage="System.ServiceModel.Dispatcher.ClientRuntime.Operations" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>

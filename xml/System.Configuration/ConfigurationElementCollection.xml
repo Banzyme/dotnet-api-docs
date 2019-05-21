@@ -171,12 +171,15 @@
       </Docs>
     </Member>
     <Member MemberName="AddElementName">
-      <MemberSignature Language="C#" Value="protected internal string AddElementName { get; set; }" />
+      <MemberSignature Language="C#" Value="protected string AddElementName { get; set; }" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
       <MemberSignature Language="ILAsm" Value=".property instance string AddElementName" />
       <MemberSignature Language="DocId" Value="P:System.Configuration.ConfigurationElementCollection.AddElementName" />
-      <MemberSignature Language="VB.NET" Value="Protected Friend Property AddElementName As String" />
-      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; property System::String ^ AddElementName { System::String ^ get(); void set(System::String ^ value); };" />
+      <MemberSignature Language="VB.NET" Value="Protected Property AddElementName As String" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
+      <MemberSignature Language="C++ CLI" Value="protected:&#xA; property System::String ^ AddElementName { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
       <MemberSignature Language="F#" Value="member this.AddElementName : string with get, set" Usage="System.Configuration.ConfigurationElementCollection.AddElementName" />
+      <MemberSignature Language="C#" Value="protected internal string AddElementName { get; set; }" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Protected Friend Property AddElementName As String" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; property System::String ^ AddElementName { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -267,12 +270,12 @@
       </Docs>
     </Member>
     <Member MemberName="BaseAdd">
-      <MemberSignature Language="C#" Value="protected void BaseAdd (System.Configuration.ConfigurationElement element, bool throwIfExists);" />
-      <MemberSignature Language="ILAsm" Value=".method familyhidebysig instance void BaseAdd(class System.Configuration.ConfigurationElement element, bool throwIfExists) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Configuration.ConfigurationElementCollection.BaseAdd(System.Configuration.ConfigurationElement,System.Boolean)" />
-      <MemberSignature Language="VB.NET" Value="Protected Sub BaseAdd (element As ConfigurationElement, throwIfExists As Boolean)" />
-      <MemberSignature Language="C++ CLI" Value="protected:&#xA; void BaseAdd(System::Configuration::ConfigurationElement ^ element, bool throwIfExists);" />
-      <MemberSignature Language="F#" Value="member this.BaseAdd : System.Configuration.ConfigurationElement * bool -&gt; unit" Usage="configurationElementCollection.BaseAdd (element, throwIfExists)" />
+      <MemberSignature Language="DocId" Value="M:System.Configuration.ConfigurationElementCollection.BaseAdd(System.Configuration.ConfigurationElement,System.Boolean)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="F#" Value="member this.BaseAdd : System.Configuration.ConfigurationElement * bool -&gt; unit" Usage="configurationElementCollection.BaseAdd (element, throwIfExists)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C#" Value="protected void BaseAdd (System.Configuration.ConfigurationElement element, bool throwIfExists);" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="ILAsm" Value=".method familyhidebysig instance void BaseAdd(class System.Configuration.ConfigurationElement element, bool throwIfExists) cil managed" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Protected Sub BaseAdd (element As ConfigurationElement, throwIfExists As Boolean)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="protected:&#xA; void BaseAdd(System::Configuration::ConfigurationElement ^ element, bool throwIfExists);" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -750,12 +753,15 @@
       </Docs>
     </Member>
     <Member MemberName="ClearElementName">
-      <MemberSignature Language="C#" Value="protected internal string ClearElementName { get; set; }" />
+      <MemberSignature Language="C#" Value="protected string ClearElementName { get; set; }" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
       <MemberSignature Language="ILAsm" Value=".property instance string ClearElementName" />
       <MemberSignature Language="DocId" Value="P:System.Configuration.ConfigurationElementCollection.ClearElementName" />
-      <MemberSignature Language="VB.NET" Value="Protected Friend Property ClearElementName As String" />
-      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; property System::String ^ ClearElementName { System::String ^ get(); void set(System::String ^ value); };" />
+      <MemberSignature Language="VB.NET" Value="Protected Property ClearElementName As String" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
+      <MemberSignature Language="C++ CLI" Value="protected:&#xA; property System::String ^ ClearElementName { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
       <MemberSignature Language="F#" Value="member this.ClearElementName : string with get, set" Usage="System.Configuration.ConfigurationElementCollection.ClearElementName" />
+      <MemberSignature Language="C#" Value="protected internal string ClearElementName { get; set; }" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Protected Friend Property ClearElementName As String" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; property System::String ^ ClearElementName { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1434,12 +1440,15 @@
       </Docs>
     </Member>
     <Member MemberName="RemoveElementName">
-      <MemberSignature Language="C#" Value="protected internal string RemoveElementName { get; set; }" />
+      <MemberSignature Language="C#" Value="protected string RemoveElementName { get; set; }" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
       <MemberSignature Language="ILAsm" Value=".property instance string RemoveElementName" />
       <MemberSignature Language="DocId" Value="P:System.Configuration.ConfigurationElementCollection.RemoveElementName" />
-      <MemberSignature Language="VB.NET" Value="Protected Friend Property RemoveElementName As String" />
-      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; property System::String ^ RemoveElementName { System::String ^ get(); void set(System::String ^ value); };" />
+      <MemberSignature Language="VB.NET" Value="Protected Property RemoveElementName As String" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
+      <MemberSignature Language="C++ CLI" Value="protected:&#xA; property System::String ^ RemoveElementName { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;dotnet-plat-ext-3.0" />
       <MemberSignature Language="F#" Value="member this.RemoveElementName : string with get, set" Usage="System.Configuration.ConfigurationElementCollection.RemoveElementName" />
+      <MemberSignature Language="C#" Value="protected internal string RemoveElementName { get; set; }" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Protected Friend Property RemoveElementName As String" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; property System::String ^ RemoveElementName { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1719,18 +1728,12 @@
       </Docs>
     </Member>
     <Member MemberName="Unmerge">
-      <MemberSignature Language="C#" Value="protected internal override void Unmerge (System.Configuration.ConfigurationElement sourceElement, System.Configuration.ConfigurationElement parentElement, System.Configuration.ConfigurationSaveMode saveMode);" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;netcore-2.0;netcore-2.1;netcore-2.2;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netcore-3.0" />
-      <MemberSignature Language="ILAsm" Value=".method familyorassemblyhidebysig virtual instance void Unmerge(class System.Configuration.ConfigurationElement sourceElement, class System.Configuration.ConfigurationElement parentElement, valuetype System.Configuration.ConfigurationSaveMode saveMode) cil managed" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;netcore-2.0;netcore-2.1;netcore-2.2;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netcore-3.0" />
-      <MemberSignature Language="VB.NET" Value="Protected Friend Overrides Sub Unmerge (sourceElement As ConfigurationElement, parentElement As ConfigurationElement, saveMode As ConfigurationSaveMode)" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;netcore-2.0;netcore-2.1;netcore-2.2;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netcore-3.0" />
-      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; override void Unmerge(System::Configuration::ConfigurationElement ^ sourceElement, System::Configuration::ConfigurationElement ^ parentElement, System::Configuration::ConfigurationSaveMode saveMode);" FrameworkAlternate="dotnet-plat-ext-2.1;dotnet-plat-ext-2.2;netcore-2.0;netcore-2.1;netcore-2.2;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netcore-3.0" />
-      <MemberSignature Language="C#" Value="protected internal override void Unmerge (System.Configuration.ConfigurationElement sourceElement, System.Configuration.ConfigurationElement parentElement, System.Configuration.ConfigurationSaveMode updateMode);" FrameworkAlternate="xamarinmac-3.0" />
-      <MemberSignature Language="ILAsm" Value=".method familyorassemblyhidebysig virtual instance void Unmerge(class System.Configuration.ConfigurationElement sourceElement, class System.Configuration.ConfigurationElement parentElement, valuetype System.Configuration.ConfigurationSaveMode updateMode) cil managed" FrameworkAlternate="xamarinmac-3.0" />
-      <MemberSignature Language="VB.NET" Value="Protected Friend Overrides Sub Unmerge (sourceElement As ConfigurationElement, parentElement As ConfigurationElement, updateMode As ConfigurationSaveMode)" FrameworkAlternate="xamarinmac-3.0" />
-      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; override void Unmerge(System::Configuration::ConfigurationElement ^ sourceElement, System::Configuration::ConfigurationElement ^ parentElement, System::Configuration::ConfigurationSaveMode updateMode);" FrameworkAlternate="xamarinmac-3.0" />
-      <MemberSignature Language="DocId" Value="M:System.Configuration.ConfigurationElementCollection.Unmerge(System.Configuration.ConfigurationElement,System.Configuration.ConfigurationElement,System.Configuration.ConfigurationSaveMode)" FrameworkAlternate="xamarinmac-3.0" />
-      <MemberSignature Language="F#" Value="override this.Unmerge : System.Configuration.ConfigurationElement * System.Configuration.ConfigurationElement * System.Configuration.ConfigurationSaveMode -&gt; unit" Usage="configurationElementCollection.Unmerge (sourceElement, parentElement, updateMode)" FrameworkAlternate="xamarinmac-3.0" />
-      <MemberSignature Language="DocId" Value="M:System.Configuration.ConfigurationElementCollection.Unmerge(System.Configuration.ConfigurationElement,System.Configuration.ConfigurationElement,System.Configuration.ConfigurationSaveMode)" FrameworkAlternate="xamarinmac-3.0" />
-      <MemberSignature Language="F#" Value="override this.Unmerge : System.Configuration.ConfigurationElement * System.Configuration.ConfigurationElement * System.Configuration.ConfigurationSaveMode -&gt; unit" Usage="configurationElementCollection.Unmerge (sourceElement, parentElement, updateMode)" FrameworkAlternate="xamarinmac-3.0" />
+      <MemberSignature Language="C#" Value="protected internal override void Unmerge (System.Configuration.ConfigurationElement sourceElement, System.Configuration.ConfigurationElement parentElement, System.Configuration.ConfigurationSaveMode updateMode);" />
+      <MemberSignature Language="ILAsm" Value=".method familyorassemblyhidebysig virtual instance void Unmerge(class System.Configuration.ConfigurationElement sourceElement, class System.Configuration.ConfigurationElement parentElement, valuetype System.Configuration.ConfigurationSaveMode updateMode) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.Configuration.ConfigurationElementCollection.Unmerge(System.Configuration.ConfigurationElement,System.Configuration.ConfigurationElement,System.Configuration.ConfigurationSaveMode)" />
+      <MemberSignature Language="VB.NET" Value="Protected Friend Overrides Sub Unmerge (sourceElement As ConfigurationElement, parentElement As ConfigurationElement, updateMode As ConfigurationSaveMode)" />
+      <MemberSignature Language="C++ CLI" Value="protected public:&#xA; override void Unmerge(System::Configuration::ConfigurationElement ^ sourceElement, System::Configuration::ConfigurationElement ^ parentElement, System::Configuration::ConfigurationSaveMode updateMode);" />
+      <MemberSignature Language="F#" Value="override this.Unmerge : System.Configuration.ConfigurationElement * System.Configuration.ConfigurationElement * System.Configuration.ConfigurationSaveMode -&gt; unit" Usage="configurationElementCollection.Unmerge (sourceElement, parentElement, updateMode)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Configuration.ConfigurationManager</AssemblyName>

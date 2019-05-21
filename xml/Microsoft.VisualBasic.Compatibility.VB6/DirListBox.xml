@@ -77,9 +77,10 @@
       <MemberSignature Language="C#" Value="public event EventHandler Change;" />
       <MemberSignature Language="ILAsm" Value=".event class System.EventHandler Change" />
       <MemberSignature Language="DocId" Value="E:Microsoft.VisualBasic.Compatibility.VB6.DirListBox.Change" />
-      <MemberSignature Language="VB.NET" Value="Public Event Change As EventHandler " />
+      <MemberSignature Language="VB.NET" Value="Public Custom Event Change As EventHandler " FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; event EventHandler ^ Change;" />
       <MemberSignature Language="F#" Value="member this.Change : EventHandler " Usage="member this.Change : System.EventHandler " />
+      <MemberSignature Language="VB.NET" Value="Public Event Change As EventHandler " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility</AssemblyName>

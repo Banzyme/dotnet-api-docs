@@ -377,12 +377,15 @@
       </Docs>
     </MemberGroup>
     <Member MemberName="GetAccessors">
-      <MemberSignature Language="C#" Value="public System.Reflection.MethodInfo[] GetAccessors ();" />
+      <MemberSignature Language="C#" Value="public System.Reflection.MethodInfo[] GetAccessors ();" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Reflection.MethodInfo[] GetAccessors() cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Reflection.PropertyInfo.GetAccessors" />
-      <MemberSignature Language="VB.NET" Value="Public Function GetAccessors () As MethodInfo()" />
+      <MemberSignature Language="DocId" Value="M:System.Reflection.PropertyInfo.GetAccessors" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Function GetAccessors () As MethodInfo()" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual cli::array &lt;System::Reflection::MethodInfo ^&gt; ^ GetAccessors();" />
       <MemberSignature Language="F#" Value="abstract member GetAccessors : unit -&gt; System.Reflection.MethodInfo[]&#xA;override this.GetAccessors : unit -&gt; System.Reflection.MethodInfo[]" Usage="propertyInfo.GetAccessors " />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Reflection.MethodInfo[] GetAccessors() cil managed" FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; cli::array &lt;System::Reflection::MethodInfo ^&gt; ^ GetAccessors();" FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
+      <MemberSignature Language="F#" Value="member this.GetAccessors : unit -&gt; System.Reflection.MethodInfo[]" Usage="propertyInfo.GetAccessors " FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._PropertyInfo.GetAccessors</InterfaceMember>
@@ -574,12 +577,15 @@
       </Docs>
     </MemberGroup>
     <Member MemberName="GetGetMethod">
-      <MemberSignature Language="C#" Value="public System.Reflection.MethodInfo GetGetMethod ();" />
+      <MemberSignature Language="C#" Value="public System.Reflection.MethodInfo GetGetMethod ();" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Reflection.MethodInfo GetGetMethod() cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Reflection.PropertyInfo.GetGetMethod" />
-      <MemberSignature Language="VB.NET" Value="Public Function GetGetMethod () As MethodInfo" />
+      <MemberSignature Language="DocId" Value="M:System.Reflection.PropertyInfo.GetGetMethod" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Function GetGetMethod () As MethodInfo" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual System::Reflection::MethodInfo ^ GetGetMethod();" />
       <MemberSignature Language="F#" Value="abstract member GetGetMethod : unit -&gt; System.Reflection.MethodInfo&#xA;override this.GetGetMethod : unit -&gt; System.Reflection.MethodInfo" Usage="propertyInfo.GetGetMethod " />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Reflection.MethodInfo GetGetMethod() cil managed" FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; System::Reflection::MethodInfo ^ GetGetMethod();" FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
+      <MemberSignature Language="F#" Value="member this.GetGetMethod : unit -&gt; System.Reflection.MethodInfo" Usage="propertyInfo.GetGetMethod " FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._PropertyInfo.GetGetMethod</InterfaceMember>
@@ -987,12 +993,15 @@
       </Docs>
     </MemberGroup>
     <Member MemberName="GetSetMethod">
-      <MemberSignature Language="C#" Value="public System.Reflection.MethodInfo GetSetMethod ();" />
+      <MemberSignature Language="C#" Value="public System.Reflection.MethodInfo GetSetMethod ();" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Reflection.MethodInfo GetSetMethod() cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Reflection.PropertyInfo.GetSetMethod" />
-      <MemberSignature Language="VB.NET" Value="Public Function GetSetMethod () As MethodInfo" />
+      <MemberSignature Language="DocId" Value="M:System.Reflection.PropertyInfo.GetSetMethod" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Function GetSetMethod () As MethodInfo" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual System::Reflection::MethodInfo ^ GetSetMethod();" />
       <MemberSignature Language="F#" Value="abstract member GetSetMethod : unit -&gt; System.Reflection.MethodInfo&#xA;override this.GetSetMethod : unit -&gt; System.Reflection.MethodInfo" Usage="propertyInfo.GetSetMethod " />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Reflection.MethodInfo GetSetMethod() cil managed" FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; System::Reflection::MethodInfo ^ GetSetMethod();" FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
+      <MemberSignature Language="F#" Value="member this.GetSetMethod : unit -&gt; System.Reflection.MethodInfo" Usage="propertyInfo.GetSetMethod " FrameworkAlternate="netstandard-1.5;netstandard-1.6;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._PropertyInfo.GetSetMethod</InterfaceMember>

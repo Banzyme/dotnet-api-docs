@@ -91,12 +91,12 @@
       </Docs>
     </Member>
     <Member MemberName="Equals">
-      <MemberSignature Language="C#" Value="public bool Equals (System.Reflection.Emit.OpCode obj);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance bool Equals(valuetype System.Reflection.Emit.OpCode obj) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Reflection.Emit.OpCode.Equals(System.Reflection.Emit.OpCode)" />
-      <MemberSignature Language="VB.NET" Value="Public Function Equals (obj As OpCode) As Boolean" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; bool Equals(System::Reflection::Emit::OpCode obj);" />
-      <MemberSignature Language="F#" Value="override this.Equals : System.Reflection.Emit.OpCode -&gt; bool" Usage="opCode.Equals obj" />
+      <MemberSignature Language="C#" Value="public bool Equals (System.Reflection.Emit.OpCode obj);" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
+      <MemberSignature Language="DocId" Value="M:System.Reflection.Emit.OpCode.Equals(System.Reflection.Emit.OpCode)" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Function Equals (obj As OpCode) As Boolean" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
+      <MemberSignature Language="F#" Value="override this.Equals : System.Reflection.Emit.OpCode -&gt; bool" Usage="opCode.Equals obj" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance bool Equals(valuetype System.Reflection.Emit.OpCode obj) cil managed" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; bool Equals(System::Reflection::Emit::OpCode obj);" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Reflection.Primitives</AssemblyName>

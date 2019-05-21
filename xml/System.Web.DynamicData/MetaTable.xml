@@ -561,12 +561,15 @@ End Class
       </Docs>
     </Member>
     <Member MemberName="DisplayColumn">
-      <MemberSignature Language="C#" Value="public virtual System.Web.DynamicData.MetaColumn DisplayColumn { get; }" />
+      <MemberSignature Language="C#" Value="public System.Web.DynamicData.MetaColumn DisplayColumn { get; }" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="ILAsm" Value=".property instance class System.Web.DynamicData.MetaColumn DisplayColumn" />
       <MemberSignature Language="DocId" Value="P:System.Web.DynamicData.MetaTable.DisplayColumn" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property DisplayColumn As MetaColumn" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Web::DynamicData::MetaColumn ^ DisplayColumn { System::Web::DynamicData::MetaColumn ^ get(); };" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property DisplayColumn As MetaColumn" FrameworkAlternate="netframework-3.5" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Web::DynamicData::MetaColumn ^ DisplayColumn { System::Web::DynamicData::MetaColumn ^ get(); };" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="F#" Value="member this.DisplayColumn : System.Web.DynamicData.MetaColumn" Usage="System.Web.DynamicData.MetaTable.DisplayColumn" />
+      <MemberSignature Language="C#" Value="public virtual System.Web.DynamicData.MetaColumn DisplayColumn { get; }" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property DisplayColumn As MetaColumn" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Web::DynamicData::MetaColumn ^ DisplayColumn { System::Web::DynamicData::MetaColumn ^ get(); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -600,12 +603,15 @@ End Class
       </Docs>
     </Member>
     <Member MemberName="DisplayName">
-      <MemberSignature Language="C#" Value="public virtual string DisplayName { get; }" />
+      <MemberSignature Language="C#" Value="public string DisplayName { get; }" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="ILAsm" Value=".property instance string DisplayName" />
       <MemberSignature Language="DocId" Value="P:System.Web.DynamicData.MetaTable.DisplayName" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property DisplayName As String" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ DisplayName { System::String ^ get(); };" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property DisplayName As String" FrameworkAlternate="netframework-3.5" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::String ^ DisplayName { System::String ^ get(); };" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="F#" Value="member this.DisplayName : string" Usage="System.Web.DynamicData.MetaTable.DisplayName" />
+      <MemberSignature Language="C#" Value="public virtual string DisplayName { get; }" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property DisplayName As String" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ DisplayName { System::String ^ get(); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaTable.DisplayName</InterfaceMember>
@@ -1455,12 +1461,15 @@ End Sub
       </Docs>
     </Member>
     <Member MemberName="IsReadOnly">
-      <MemberSignature Language="C#" Value="public virtual bool IsReadOnly { get; }" />
+      <MemberSignature Language="C#" Value="public bool IsReadOnly { get; }" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="ILAsm" Value=".property instance bool IsReadOnly" />
       <MemberSignature Language="DocId" Value="P:System.Web.DynamicData.MetaTable.IsReadOnly" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property IsReadOnly As Boolean" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool IsReadOnly { bool get(); };" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property IsReadOnly As Boolean" FrameworkAlternate="netframework-3.5" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; property bool IsReadOnly { bool get(); };" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="F#" Value="member this.IsReadOnly : bool" Usage="System.Web.DynamicData.MetaTable.IsReadOnly" />
+      <MemberSignature Language="C#" Value="public virtual bool IsReadOnly { get; }" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property IsReadOnly As Boolean" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool IsReadOnly { bool get(); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaTable.IsReadOnly</InterfaceMember>
@@ -1687,12 +1696,15 @@ End Sub
       </Docs>
     </Member>
     <Member MemberName="Scaffold">
-      <MemberSignature Language="C#" Value="public virtual bool Scaffold { get; }" />
+      <MemberSignature Language="C#" Value="public bool Scaffold { get; }" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="ILAsm" Value=".property instance bool Scaffold" />
       <MemberSignature Language="DocId" Value="P:System.Web.DynamicData.MetaTable.Scaffold" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Scaffold As Boolean" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool Scaffold { bool get(); };" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Scaffold As Boolean" FrameworkAlternate="netframework-3.5" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; property bool Scaffold { bool get(); };" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="F#" Value="member this.Scaffold : bool" Usage="System.Web.DynamicData.MetaTable.Scaffold" />
+      <MemberSignature Language="C#" Value="public virtual bool Scaffold { get; }" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Scaffold As Boolean" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool Scaffold { bool get(); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaTable.Scaffold</InterfaceMember>
@@ -1713,12 +1725,15 @@ End Sub
       </Docs>
     </Member>
     <Member MemberName="SortColumn">
-      <MemberSignature Language="C#" Value="public virtual System.Web.DynamicData.MetaColumn SortColumn { get; }" />
+      <MemberSignature Language="C#" Value="public System.Web.DynamicData.MetaColumn SortColumn { get; }" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="ILAsm" Value=".property instance class System.Web.DynamicData.MetaColumn SortColumn" />
       <MemberSignature Language="DocId" Value="P:System.Web.DynamicData.MetaTable.SortColumn" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property SortColumn As MetaColumn" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Web::DynamicData::MetaColumn ^ SortColumn { System::Web::DynamicData::MetaColumn ^ get(); };" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property SortColumn As MetaColumn" FrameworkAlternate="netframework-3.5" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Web::DynamicData::MetaColumn ^ SortColumn { System::Web::DynamicData::MetaColumn ^ get(); };" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="F#" Value="member this.SortColumn : System.Web.DynamicData.MetaColumn" Usage="System.Web.DynamicData.MetaTable.SortColumn" />
+      <MemberSignature Language="C#" Value="public virtual System.Web.DynamicData.MetaColumn SortColumn { get; }" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property SortColumn As MetaColumn" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Web::DynamicData::MetaColumn ^ SortColumn { System::Web::DynamicData::MetaColumn ^ get(); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -1735,12 +1750,15 @@ End Sub
       </Docs>
     </Member>
     <Member MemberName="SortDescending">
-      <MemberSignature Language="C#" Value="public virtual bool SortDescending { get; }" />
+      <MemberSignature Language="C#" Value="public bool SortDescending { get; }" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="ILAsm" Value=".property instance bool SortDescending" />
       <MemberSignature Language="DocId" Value="P:System.Web.DynamicData.MetaTable.SortDescending" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property SortDescending As Boolean" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool SortDescending { bool get(); };" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property SortDescending As Boolean" FrameworkAlternate="netframework-3.5" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; property bool SortDescending { bool get(); };" FrameworkAlternate="netframework-3.5" />
       <MemberSignature Language="F#" Value="member this.SortDescending : bool" Usage="System.Web.DynamicData.MetaTable.SortDescending" />
+      <MemberSignature Language="C#" Value="public virtual bool SortDescending { get; }" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property SortDescending As Boolean" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool SortDescending { bool get(); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaTable.SortDescending</InterfaceMember>

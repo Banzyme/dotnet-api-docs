@@ -504,12 +504,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymMethod.Finalize> method to relea
       </Docs>
     </Member>
     <Member MemberName="RootScope">
-      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.ISymbolScope RootScope { get; }" />
+      <MemberSignature Language="C#" Value="public override System.Diagnostics.SymbolStore.ISymbolScope RootScope { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance class System.Diagnostics.SymbolStore.ISymbolScope RootScope" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymMethod.RootScope" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property RootScope As ISymbolScope" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property RootScope As ISymbolScope" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Diagnostics::SymbolStore::ISymbolScope ^ RootScope { System::Diagnostics::SymbolStore::ISymbolScope ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.RootScope : System.Diagnostics.SymbolStore.ISymbolScope" Usage="System.Diagnostics.SymbolStore.SymMethod.RootScope" />
+      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.ISymbolScope RootScope { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property RootScope As ISymbolScope" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolMethod.RootScope</InterfaceMember>
@@ -554,12 +556,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymMethod.Finalize> method to relea
       </Docs>
     </Member>
     <Member MemberName="SequencePointCount">
-      <MemberSignature Language="C#" Value="public virtual int SequencePointCount { get; }" />
+      <MemberSignature Language="C#" Value="public override int SequencePointCount { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance int32 SequencePointCount" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymMethod.SequencePointCount" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property SequencePointCount As Integer" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property SequencePointCount As Integer" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property int SequencePointCount { int get(); };" />
       <MemberSignature Language="F#" Value="member this.SequencePointCount : int" Usage="System.Diagnostics.SymbolStore.SymMethod.SequencePointCount" />
+      <MemberSignature Language="C#" Value="public virtual int SequencePointCount { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property SequencePointCount As Integer" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolMethod.SequencePointCount</InterfaceMember>
@@ -580,12 +584,14 @@ Use the <xref:System.Diagnostics.SymbolStore.SymMethod.Finalize> method to relea
       </Docs>
     </Member>
     <Member MemberName="Token">
-      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.SymbolToken Token { get; }" />
+      <MemberSignature Language="C#" Value="public override System.Diagnostics.SymbolStore.SymbolToken Token { get; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Diagnostics.SymbolStore.SymbolToken Token" />
       <MemberSignature Language="DocId" Value="P:System.Diagnostics.SymbolStore.SymMethod.Token" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Token As SymbolToken" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property Token As SymbolToken" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Diagnostics::SymbolStore::SymbolToken Token { System::Diagnostics::SymbolStore::SymbolToken get(); };" />
       <MemberSignature Language="F#" Value="member this.Token : System.Diagnostics.SymbolStore.SymbolToken" Usage="System.Diagnostics.SymbolStore.SymMethod.Token" />
+      <MemberSignature Language="C#" Value="public virtual System.Diagnostics.SymbolStore.SymbolToken Token { get; }" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Token As SymbolToken" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolMethod.Token</InterfaceMember>

@@ -1875,12 +1875,12 @@ For a list of common I/O tasks, see [Common I/O Tasks](~/docs/standard/io/common
       </Docs>
     </Member>
     <Member MemberName="WriteLine">
-      <MemberSignature Language="C#" Value="public override void WriteLine (string value);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance void WriteLine(string value) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.IO.StreamWriter.WriteLine(System.String)" />
-      <MemberSignature Language="VB.NET" Value="Public Overrides Sub WriteLine (value As String)" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; override void WriteLine(System::String ^ value);" />
-      <MemberSignature Language="F#" Value="override this.WriteLine : string -&gt; unit" Usage="streamWriter.WriteLine value" />
+      <MemberSignature Language="C#" Value="public override void WriteLine (string value);" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance void WriteLine(string value) cil managed" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="DocId" Value="M:System.IO.StreamWriter.WriteLine(System.String)" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides Sub WriteLine (value As String)" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; override void WriteLine(System::String ^ value);" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="F#" Value="override this.WriteLine : string -&gt; unit" Usage="streamWriter.WriteLine value" FrameworkAlternate="netcore-3.0" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Extensions</AssemblyName>

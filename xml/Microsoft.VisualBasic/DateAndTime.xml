@@ -1632,12 +1632,16 @@ MsgBox("The formatted time is " & Format(Now, "hh.mm.ss.fff tt"))
       </Docs>
     </Member>
     <Member MemberName="Today">
-      <MemberSignature Language="C#" Value="public static DateTime Today { get; set; }" />
+      <MemberSignature Language="C#" Value="public static DateTime Today { get; }" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="ILAsm" Value=".property valuetype System.DateTime Today" />
       <MemberSignature Language="DocId" Value="P:Microsoft.VisualBasic.DateAndTime.Today" />
-      <MemberSignature Language="VB.NET" Value="Public Property Today As DateTime" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; static property DateTime Today { DateTime get(); void set(DateTime value); };" />
-      <MemberSignature Language="F#" Value="member this.Today : DateTime with get, set" Usage="Microsoft.VisualBasic.DateAndTime.Today" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Today As DateTime" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; static property DateTime Today { DateTime get(); };" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="F#" Value="member this.Today : DateTime" Usage="Microsoft.VisualBasic.DateAndTime.Today" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="C#" Value="public static DateTime Today { get; set; }" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Property Today As DateTime" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; static property DateTime Today { DateTime get(); void set(DateTime value); };" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="F#" Value="member this.Today : DateTime with get, set" Usage="Microsoft.VisualBasic.DateAndTime.Today" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>

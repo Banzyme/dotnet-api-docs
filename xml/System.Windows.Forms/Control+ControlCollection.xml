@@ -492,12 +492,12 @@
       </Docs>
     </Member>
     <Member MemberName="GetChildIndex">
-      <MemberSignature Language="C#" Value="public virtual int GetChildIndex (System.Windows.Forms.Control child, bool throwException);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance int32 GetChildIndex(class System.Windows.Forms.Control child, bool throwException) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Windows.Forms.Control.ControlCollection.GetChildIndex(System.Windows.Forms.Control,System.Boolean)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetChildIndex (child As Control, throwException As Boolean) As Integer" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual int GetChildIndex(System::Windows::Forms::Control ^ child, bool throwException);" />
-      <MemberSignature Language="F#" Value="abstract member GetChildIndex : System.Windows.Forms.Control * bool -&gt; int&#xA;override this.GetChildIndex : System.Windows.Forms.Control * bool -&gt; int" Usage="controlCollection.GetChildIndex (child, throwException)" />
+      <MemberSignature Language="DocId" Value="M:System.Windows.Forms.Control.ControlCollection.GetChildIndex(System.Windows.Forms.Control,System.Boolean)" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C#" Value="public virtual int GetChildIndex (System.Windows.Forms.Control child, bool throwException);" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance int32 GetChildIndex(class System.Windows.Forms.Control child, bool throwException) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetChildIndex (child As Control, throwException As Boolean) As Integer" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual int GetChildIndex(System::Windows::Forms::Control ^ child, bool throwException);" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="F#" Value="abstract member GetChildIndex : System.Windows.Forms.Control * bool -&gt; int&#xA;override this.GetChildIndex : System.Windows.Forms.Control * bool -&gt; int" Usage="controlCollection.GetChildIndex (child, throwException)" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -531,12 +531,12 @@
       </Docs>
     </Member>
     <Member MemberName="GetEnumerator">
-      <MemberSignature Language="C#" Value="public override System.Collections.IEnumerator GetEnumerator ();" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance class System.Collections.IEnumerator GetEnumerator() cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Windows.Forms.Control.ControlCollection.GetEnumerator" />
-      <MemberSignature Language="VB.NET" Value="Public Overrides Function GetEnumerator () As IEnumerator" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; override System::Collections::IEnumerator ^ GetEnumerator();" />
-      <MemberSignature Language="F#" Value="override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="controlCollection.GetEnumerator " />
+      <MemberSignature Language="DocId" Value="M:System.Windows.Forms.Control.ControlCollection.GetEnumerator" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C#" Value="public override System.Collections.IEnumerator GetEnumerator ();" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance class System.Collections.IEnumerator GetEnumerator() cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides Function GetEnumerator () As IEnumerator" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; override System::Collections::IEnumerator ^ GetEnumerator();" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="F#" Value="override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="controlCollection.GetEnumerator " FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
@@ -921,12 +921,12 @@
       </Docs>
     </Member>
     <Member MemberName="SetChildIndex">
-      <MemberSignature Language="C#" Value="public virtual void SetChildIndex (System.Windows.Forms.Control child, int newIndex);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance void SetChildIndex(class System.Windows.Forms.Control child, int32 newIndex) cil managed" />
-      <MemberSignature Language="DocId" Value="M:System.Windows.Forms.Control.ControlCollection.SetChildIndex(System.Windows.Forms.Control,System.Int32)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Sub SetChildIndex (child As Control, newIndex As Integer)" />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void SetChildIndex(System::Windows::Forms::Control ^ child, int newIndex);" />
-      <MemberSignature Language="F#" Value="abstract member SetChildIndex : System.Windows.Forms.Control * int -&gt; unit&#xA;override this.SetChildIndex : System.Windows.Forms.Control * int -&gt; unit" Usage="controlCollection.SetChildIndex (child, newIndex)" />
+      <MemberSignature Language="DocId" Value="M:System.Windows.Forms.Control.ControlCollection.SetChildIndex(System.Windows.Forms.Control,System.Int32)" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C#" Value="public virtual void SetChildIndex (System.Windows.Forms.Control child, int newIndex);" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance void SetChildIndex(class System.Windows.Forms.Control child, int32 newIndex) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Sub SetChildIndex (child As Control, newIndex As Integer)" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void SetChildIndex(System::Windows::Forms::Control ^ child, int newIndex);" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="F#" Value="abstract member SetChildIndex : System.Windows.Forms.Control * int -&gt; unit&#xA;override this.SetChildIndex : System.Windows.Forms.Control * int -&gt; unit" Usage="controlCollection.SetChildIndex (child, newIndex)" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>

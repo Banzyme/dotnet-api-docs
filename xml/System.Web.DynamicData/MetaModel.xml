@@ -780,11 +780,12 @@
       </Docs>
     </Member>
     <Member MemberName="RegisterContext">
-      <MemberSignature Language="C#" Value="public virtual void RegisterContext (System.Web.DynamicData.ModelProviders.DataModelProvider dataModelProvider, System.Web.DynamicData.ContextConfiguration configuration);" />
+      <MemberSignature Language="C#" Value="public void RegisterContext (System.Web.DynamicData.ModelProviders.DataModelProvider dataModelProvider, System.Web.DynamicData.ContextConfiguration configuration);" FrameworkAlternate="netframework-4.0" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance void RegisterContext(class System.Web.DynamicData.ModelProviders.DataModelProvider dataModelProvider, class System.Web.DynamicData.ContextConfiguration configuration) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Web.DynamicData.MetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void RegisterContext(System::Web::DynamicData::ModelProviders::DataModelProvider ^ dataModelProvider, System::Web::DynamicData::ContextConfiguration ^ configuration);" />
       <MemberSignature Language="F#" Value="abstract member RegisterContext : System.Web.DynamicData.ModelProviders.DataModelProvider * System.Web.DynamicData.ContextConfiguration -&gt; unit&#xA;override this.RegisterContext : System.Web.DynamicData.ModelProviders.DataModelProvider * System.Web.DynamicData.ContextConfiguration -&gt; unit" Usage="metaModel.RegisterContext (dataModelProvider, configuration)" />
+      <MemberSignature Language="C#" Value="public virtual void RegisterContext (System.Web.DynamicData.ModelProviders.DataModelProvider dataModelProvider, System.Web.DynamicData.ContextConfiguration configuration);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>

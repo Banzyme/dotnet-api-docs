@@ -381,8 +381,9 @@
       <MemberSignature Language="ILAsm" Value=".event class System.EventHandler CheckedChanged" />
       <MemberSignature Language="DocId" Value="E:System.Web.UI.WebControls.CheckBox.CheckedChanged" />
       <MemberSignature Language="VB.NET" Value="Public Custom Event CheckedChanged As EventHandler " />
-      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event EventHandler ^ CheckedChanged;" />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; event EventHandler ^ CheckedChanged;" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="F#" Value="member this.CheckedChanged : EventHandler " Usage="member this.CheckedChanged : System.EventHandler " />
+      <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event EventHandler ^ CheckedChanged;" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Web.UI.ICheckBoxControl.CheckedChanged</InterfaceMember>

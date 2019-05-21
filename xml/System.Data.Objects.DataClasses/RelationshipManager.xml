@@ -76,9 +76,10 @@
       <MemberSignature Language="C#" Value="public System.Collections.Generic.IEnumerable&lt;System.Data.Objects.DataClasses.IRelatedEnd&gt; GetAllRelatedEnds ();" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Collections.Generic.IEnumerable`1&lt;class System.Data.Objects.DataClasses.IRelatedEnd&gt; GetAllRelatedEnds() cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Data.Objects.DataClasses.RelationshipManager.GetAllRelatedEnds" />
-      <MemberSignature Language="VB.NET" Value="Public Iterator Function GetAllRelatedEnds () As IEnumerable(Of IRelatedEnd)" />
+      <MemberSignature Language="VB.NET" Value="Public Function GetAllRelatedEnds () As IEnumerable(Of IRelatedEnd)" FrameworkAlternate="netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; System::Collections::Generic::IEnumerable&lt;System::Data::Objects::DataClasses::IRelatedEnd ^&gt; ^ GetAllRelatedEnds();" />
       <MemberSignature Language="F#" Value="member this.GetAllRelatedEnds : unit -&gt; seq&lt;System.Data.Objects.DataClasses.IRelatedEnd&gt;" Usage="relationshipManager.GetAllRelatedEnds " />
+      <MemberSignature Language="VB.NET" Value="Public Iterator Function GetAllRelatedEnds () As IEnumerable(Of IRelatedEnd)" FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>

@@ -238,9 +238,10 @@
       <MemberSignature Language="C#" Value="public event EventHandler HelpRequest;" />
       <MemberSignature Language="ILAsm" Value=".event class System.EventHandler HelpRequest" />
       <MemberSignature Language="DocId" Value="E:Microsoft.VisualBasic.Compatibility.VB6.ColorDialogArray.HelpRequest" />
-      <MemberSignature Language="VB.NET" Value="Public Event HelpRequest As EventHandler " />
+      <MemberSignature Language="VB.NET" Value="Public Custom Event HelpRequest As EventHandler " FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; event EventHandler ^ HelpRequest;" />
       <MemberSignature Language="F#" Value="member this.HelpRequest : EventHandler " Usage="member this.HelpRequest : System.EventHandler " />
+      <MemberSignature Language="VB.NET" Value="Public Event HelpRequest As EventHandler " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility</AssemblyName>
